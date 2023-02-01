@@ -5,10 +5,6 @@ The goal is to obtain a sample which covers the input space equally. This gives 
 
 For more information see the papers:
 
-"Sampling To Improve Predictions For Underrepresented Observations In Imbalanced Data"
+Sampling To Improve Predictions For Underrepresented Observations In Imbalanced Data https://arxiv.org/abs/2111.09065
 
-Link: https://arxiv.org/abs/2111.09065
-
-"Data Representativity for Machine Learning and AI Systems"
-
-Link https://arxiv.org/abs/2203.04706
+Data Representativity for Machine Learning and AI Systems https://arxiv.org/abs/2203.04706
